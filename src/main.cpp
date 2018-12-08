@@ -12,6 +12,7 @@ int lcd_width = 16; // oder 20,4 bei großem Display
 int lcd_hight = 2;
 
 // Button
+//bla
 const byte button = 2;
 const byte redLED = 5;
 const byte greenLED = 6;
